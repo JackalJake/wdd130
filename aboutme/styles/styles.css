@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(54, 100, 138);
+    padding: 10px;
+}
+
+a {
+    color: white;
+    margin: 40px;
+}
+
+h1 {
+    color: rgb(54, 100, 138);
+}
+
+img {
+    width: 1000px;
+    border: 5px solid rgb(54, 100, 138);
+}
+
+p {
+    padding: 10px;
+    font-size: large;
+}
+
+footer {
+    background-color: steelblue;
+    color: white;
+}
