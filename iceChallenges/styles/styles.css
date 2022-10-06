@@ -1,0 +1,42 @@
+
+body {
+    background-color: rgb(244, 163, 190);
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.title {
+    color: white;
+    font-size: 45px;
+}
+
+.title:hover {
+    color: black;
+}
+
+.quote {
+    color: white;
+}
+
+.list {
+    text-align: left;
+}
+
+li {
+    padding: 5px;
+}
+
+#majorQuote {
+    font-size: 1.2em;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 20px;
+}
