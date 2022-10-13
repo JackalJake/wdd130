@@ -1,7 +1,7 @@
 
 body {
     margin: 0%;
-    background-color: gray;
+    background-color: rgb(115, 115, 115);
 }
 
 #banner {
@@ -18,7 +18,8 @@ li {
 }
 
 li img {
-    border: 5px solid rgb(88, 88, 88);
-    width: 260px;
-    border-radius: 130px;
+    border: 12px solid rgb(74, 74, 74);
+    width: 200px;
+    border-radius: 115px;
+    margin: 25px 100px;
 }
